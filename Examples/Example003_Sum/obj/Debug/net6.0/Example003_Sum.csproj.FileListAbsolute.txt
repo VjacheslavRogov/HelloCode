@@ -1,0 +1,15 @@
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.exe
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.deps.json
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.runtimeconfig.json
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.dll
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.pdb
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.AssemblyReference.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfoInputs.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfo.cs
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.CoreCompileInputs.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.dll
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\refint\Example003_Sum.dll
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.pdb
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.genruntimeconfig.cache
+C:\Папки рабочего стола\Dev\GeekBrains\C#\Examples\Example003_Sum\obj\Debug\net6.0\ref\Example003_Sum.dll
